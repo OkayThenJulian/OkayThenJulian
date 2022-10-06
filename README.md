@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OkayThenJulian
+- 👀 I’m interested in newbie coding.
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on things with other students
+- 📫 Please reach me through discord, my tag is OkayThenNo#0929
